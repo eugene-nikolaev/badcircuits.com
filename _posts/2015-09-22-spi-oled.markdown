@@ -122,11 +122,11 @@ Uploaded a firmware... Got it!
 
 ![Display shows properly](/assets/07_oled_ok.jpg)
 
-Далее я прошил другие примеры, очень понравился пример FPS, экран довольно быстро обновляется.
+Then I uploaded another example. I liked a "FPS" example very much, the display refreshed pretty quickly.
 
-## Выводы
+## Summary
 
-- Никогда не надо сдаваться, особенно, если у кого-то такая же штука работает.
-- По стоимости выгоднее взять экран, использующий один тип подключения — I2C либо SPI.
-- Информационным материалам от китайцев доверия нет.
-- Лучше брать экран, распиновкой совпадающий с оригинальными экранами от Adafruit и других крупных поставщиков.
+- Neve give up, especially if someone has already managed to make the same stuff work
+- It is more reasonable to purchase a display with single protocol — I2C or SPI.
+- Don't trust to information given by Chinese sellers
+- It is more reasonable to buy displays with pinouts matching to original displays' pinout from Adafruit and other major suppliers.
