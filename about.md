@@ -1,7 +1,7 @@
 ---
 layout: page
-title: О блоге
+title: About blog
 permalink: /about/
 ---
 
-Блог про микроконтроллеры, электронику, схемотехнику.
+Blog about microcontrollers, electronics and schematics.
