@@ -57,7 +57,6 @@ sudo cp usbasp.rules /etc/udev/rules.d/
 Disconnect and connect again the programmer.
 Look at the bus (I repeat: you may have another number):
 
-
 ```
 $ ls -la /dev/bus/usb/003/
 total 0

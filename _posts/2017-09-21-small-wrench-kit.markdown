@@ -1,28 +1,30 @@
 ---
 layout: post
 comments: true
-title:  "Набор рожковых гаечных ключей малых размеров"
+title:  Mini cranked wrench kit
 date:   2017-09-21
 categories: tools
 ---
 
-На днях возникла необходимость открутить небольшой биметаллический термостат от нагревательного прибора, прикрученный мелкими гайками, примерно М3.
+Recently, I was needed to remove a small bimetall thermostate from a slow-cooker. It was screwed by two small nuts (apparently their size was M3).
 
-Обычно такое я откручиваю мини-пассатижами, но в этот раз подлезть было очень сложно. Мелкий разводной ключ тоже оказался толстоват, да и неудобно, все время раскручивается.
-Такая проблема возникает часто, и захотелось решить ее более адекватным способом — значит, нужен набор мини гаечных ключей.
+Usually I unscrew nuts like those with small plieers but there was no room to put it into.
+Small adjustuble wrench was too thick and it is not very handy as it always loses its setting.
 
-После довольно продолжительного поиска, на ebay нашелся вот такой набор из 7 ключей:
+I often encountered this the issue so that time I wanted to finally solve it using more adequate approach.
+Well, I needed a small wrench kit.
+After some long search, I found this wrench kit (7 pieces) on ebay:
 
 [7-PC-Mini-Cranked-Wrench-3-mm-5-5-mm-model-engineering-hobby](https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338190330&mpre=http%3A%2F%2Fwww.ebay.com%2Fitm%2F7-pc-Mini-gekr%25F6pften-Schraubenschl%25FCssel-3-mm-5-5-mm-Model-Engineering-Hobby%2F162653716647)
 
-![Набор гаечных ключей малых размеров](/assets/2017/09/21/01a_small_wrench_kit.jpg)
+![Mini cranked wrench kit](/assets/2017/09/21/01a_small_wrench_kit.jpg)
 
-Как видно, один конец прямой, один загнутый на 80°.
+As you can see, one end is straight and other is cranked to 80°.
 
-Длина: 75-80мм.
+Length: 75-80mm.
 
-Размеры: 3/3,2/3,5/4/4,5/5/5,5 мм.
+Sizes: 3/3,2/3,5/4/4,5/5/5,5 mm.
 
-Есть довольно экзотические размеры, набор позиционируется как модельный.
+It has pretty exotic sizes, the kit is positioned as for model engineering one.
 <br>
-Качество хорошее, прислали из UK, шло сравнительно недолго (2-3 недели).
+Quality is very good, it was sent from UK and shipping was not too long (2-3 weeks).
