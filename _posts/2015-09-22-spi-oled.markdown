@@ -6,7 +6,7 @@ categories: oled spi arduino
 ---
 I want to share how to connect a non-standard Chinese OLED-display bought on ebay:
 
-[0.96" I2C IIC SPI Serial 128X64 White OLED LCD LED Display Module for Arduino](https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338190330&mpre=http%3A%2F%2Fwww.ebay.com%2Fitm%2F0-96-I2C-IIC-SPI-Serial-128X64-White-OLED-LCD-LED-Display-Module-for-Arduino-%2F263097814635)
+[0.96" I2C IIC SPI Serial 128X64 White OLED LCD LED Display Module for Arduino](https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338194349&mpre=http%3A%2F%2Fwww.ebay.com%2Fitm%2F0-96-I2C-IIC-SPI-Serial-128X64-White-OLED-LCD-LED-Display-Module-for-Arduino-%2F263097814635)
 
 It wasn't too easy because it didn't work with popular libraries which were in the most of instructions in web.
 I chose it by only highlight color. That time I didn't know that they could be connected using different interfaces.
@@ -38,7 +38,7 @@ I decided to use SPI at first. I didn't use I2C and I didn't want to deal with i
 
 I took an Arduino Nano clone:
 
-[MINI USB Nano V3.0 ATmega328P CH340G 5V 16M Micro-controller board for Arduino](https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338190330&mpre=http%3A%2F%2Fwww.ebay.com%2Fitm%2FMINI-USB-Nano-V3-0-ATmega328P-CH340G-5V-16M-Micro-controller-board-for-Arduino-%2F381374550571)
+[MINI USB Nano V3.0 ATmega328P CH340G 5V 16M Micro-controller board for Arduino](https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338194349&mpre=http%3A%2F%2Fwww.ebay.com%2Fitm%2FMINI-USB-Nano-V3-0-ATmega328P-CH340G-5V-16M-Micro-controller-board-for-Arduino-%2F381374550571)
 
 ![Arduino Nano Clone](/assets/03_funduino_nano.jpg)
 
