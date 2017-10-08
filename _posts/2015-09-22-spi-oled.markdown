@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Connecting non-standard Chinese OLED-display using SPI"
+title:  Connecting non-standard Chinese OLED-display using SPI
 date:   2015-09-22 09:59:03
 categories: oled spi arduino
 ---
@@ -120,7 +120,7 @@ Uploaded a firmware... Got it!
 
 ![Display shows properly](/assets/07_oled_ok.jpg)
 
-Then I uploaded another example. I liked a "FPS" example very much, the display refreshed pretty quickly.
+Then I uploaded another example. I liked a "FPS" example very much, the display refreshed pretty fast.
 
 ## Summary
 
