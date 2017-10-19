@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title:  Mini cranked wrench kit
+title:  Mini wrench kit
 date:   2017-09-21
 categories: tools
 ---
