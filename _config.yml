@@ -6,3 +6,4 @@ description: > # this means to ignore newlines until "baseurl:"
 highlighter: rouge
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://badcircuits.com" # the base hostname & protocol for your site
+permalink: /:title.html
