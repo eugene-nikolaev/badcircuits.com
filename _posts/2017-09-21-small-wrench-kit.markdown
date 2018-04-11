@@ -25,6 +25,6 @@ Length: 75-80mm.
 
 Sizes: 3/3,2/3,5/4/4,5/5/5,5 mm.
 
-It has pretty exotic sizes, the kit is positioned as for model engineering one.
+It has pretty exotic sizes, the kit is positioned for model engineering.
 <br>
-Quality is very good, it was sent from UK and shipping was not too long (2-3 weeks).
+Quality is very good, it was sent from UK and shipping was not that long (2-3 weeks).

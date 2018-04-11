@@ -11,10 +11,56 @@ layout: default
   <article class="post-content">
     {{ content }}
   </article>
-
-  <p><em>Please feel free to ask anything or correct me (below is a Disqus form).<em></p>
-
 </div>
+
+<br/>
+<p><em>You may like other articles:</em></p>
+
+<script type="text/javascript">
+  var removeItemFromArray = function(array, item){
+    /* assign a empty array */
+    var tmp = [];
+    /* loop over all array items */
+    for(var index in array){
+      if(array[index] !== item){
+        /* push to temporary array if not like item */
+        tmp.push(array[index]);
+      }
+    }
+    /* return the temporary array */
+    return tmp;
+  }
+  var curUrl = "{{ page.url }}";
+  var curTitle = "{{ page.title }}";
+  console.log([curUrl, curTitle]);
+  var postsURL = [{% for post in site.posts %}"{{ post.url }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
+  var postsTitle = [{% for post in site.posts %}"{{ post.title }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
+  postsURL = removeItemFromArray(postsURL, curUrl);
+  postsTitle = removeItemFromArray(postsTitle, curTitle);
+  console.log([postsURL, postsTitle]);
+</script>
+
+
+<script type="text/javascript">
+  var randomIndexUsed = [];
+  var counter = 0;
+  var numberOfPosts = Math.min(3, postsURL.length);
+  while (counter < numberOfPosts) {
+    var randomIndex;
+    var postURL;
+    var postTitle;
+    randomIndex = Math.floor(Math.random() * postsURL.length);
+    if (randomIndexUsed.indexOf(randomIndex) == "-1") {
+      postURL = postsURL[randomIndex];
+      postTitle = postsTitle[randomIndex];
+      document.write('<p><a href="' + postURL + '">' + postTitle + '</a></p>');
+      randomIndexUsed.push(randomIndex);
+      counter++;
+    }
+  }
+</script>
+<br/>
+<br/>
 
 <div id="disqus_thread"></div>
 <script>
