@@ -8,7 +8,7 @@ categories: tools
 
 Recently, I was needed to remove a small bimetall thermostate from a slow-cooker. It was screwed by two small nuts (apparently their size was M3).
 
-Usually I unscrew nuts like those with small plieers but there was no room to put it into.
+Usually I unscrew nuts like those with small pliers but there was no room to put them into.
 Small adjustuble wrench was too thick and it is not very handy as it always loses its setting.
 
 I often encountered this the issue so that time I wanted to finally solve it using more adequate approach.
