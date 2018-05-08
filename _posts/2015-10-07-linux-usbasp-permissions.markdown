@@ -8,8 +8,8 @@ categories: avr usbasp linux
 ![Linux File Permission coding](/assets/2015/10/linux-permissions.jpg)
 <br>
 <br>
-Once I tried to upload firmware to attiny13. I used Arduino IDE (on Linux Mint 17.2) and [USBasp](https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338194349&mpre=http%3A%2F%2Fwww.ebay.com%2Fitm%2FUSBASP-USBISP-AVR-Programmer-Adapter-10-Pin-USB-Cable-ATMEGA8-ATMEGA128-Arduino-%2F141924793771) programmer.
-But an error encountered:
+Once I tried to upload firmware to attiny13. I used Arduino IDE (on Linux Mint 17.2) and [USBasp](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=2&pub=5575333295&toolid=10001&campid=5338194349&customid=&icep_item=142664290181&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) programmer.
+But has encountered  a error:
 
 ```
 avrdude: Warning: cannot open USB device: Permission denied
